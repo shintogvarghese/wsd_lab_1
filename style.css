@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(250, 250, 230) ;
+}
+
+div,#intro_content{
+    color:black;
+    font-family:Impact, Charcoal, sans-serif ;
+    font-size: 20px;
+}
+
+a:visited {
+    color: navy;   
+    text-decoration: none;
+  }
+
+  a:link {
+    color: navy;
+    text-decoration: none;
+  }  
